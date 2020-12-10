@@ -69,7 +69,9 @@ switch (nu) {
 ``` 
 
 ## 实验截图
-The right result:
-![The right result](***你的图片网络地址***)  
+1:
+![1](https://github.com/MOOxhnh/bipt-java-5/blob/main/1.png)  
+2:
+![2](https://github.com/MOOxhnh/bipt-java-5/blob/main/2.png)  
 ## 实验感想  
 通过此次实验我真正地感受到java和其他文件产生的练习,可以通过几行代码的处理去整理自己的文档数据,并且还能进行查找,是一个十分方便的功能,同时我也学会了如何将设置转为UTF-8,即正常地输出中文字符,同时又熟悉了编程语言的逻辑,将循环和判断写得更好.
